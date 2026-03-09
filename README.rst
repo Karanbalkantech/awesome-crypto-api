@@ -3,6 +3,9 @@ Awesome Cryptocurrency API
 
 Cryptocurrency general data
 ---------------------------
+
+`Chartscout <https://chartscout.io/>`_ Real-Time Detection. Scans 1,000+ pairs across 4 exchanges 24/7. Detects patterns instantly and alerts you in under 20 seconds.
+
 `Coinpaprika <https://api.coinpaprika.com/>`_ Provides extensive data for free. 
 
 `CoinAPI <https://www.coinapi.io/>`_ – Advertises itself as a "one-stop solutin market data provider for cryptocurrency markets."
